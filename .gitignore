@@ -1,0 +1,6 @@
+.claude/
+__MACOSX/
+.DS_Store
+*.xcuserstate
+xcuserdata/
+.build/
