@@ -20,11 +20,10 @@
 
 ## Demo
 
-[**Watch the Demo Video**](https://github.com/DhruvGoswami10/SimPredict/releases/download/v1.0/SimPredict.ASSC2026.MP4)
 
-> Click the link above to download and watch the full app walkthrough.
->
-> *Want the video to play inline? Edit this README on GitHub, delete this section, and drag-drop the MP4 file directly into the editor — GitHub will auto-embed it.*
+
+Uploading SimPredict ASSC2026.MP4…
+
 
 ---
 
