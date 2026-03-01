@@ -20,10 +20,13 @@
 
 ## Demo
 
+<p align="center">
+  <a href="https://youtu.be/UkDhJrI0SS0">
+    <img src="https://img.youtube.com/vi/UkDhJrI0SS0/maxresdefault.jpg" alt="SimPredict Demo" width="600">
+  </a>
+</p>
 
-
-Uploading SimPredict ASSC2026.MP4…
-
+<p align="center"><em>Click the image above to watch the full demo on YouTube</em></p>
 
 ---
 
