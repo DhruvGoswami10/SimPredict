@@ -20,16 +20,9 @@
 
 ## Demo
 
-<!--
-  To add your demo video:
-  1. Go to this README on GitHub
-  2. Click the pencil icon to edit
-  3. Drag & drop your .mp4 screen recording right here
-  4. GitHub will auto-upload and generate the embed code
-  5. Commit the change
--->
+https://github.com/user-attachments/assets/SimPredict-demo
 
-> **Video coming soon** — a walkthrough of the full app experience from onboarding to race results.
+<video src="SimPredict ASSC2026.MP4" width="100%" controls></video>
 
 ---
 
